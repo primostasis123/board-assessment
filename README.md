@@ -5,7 +5,7 @@ A task management application with boards and tasks, featuring a Kanban-style in
 ## Requirements
 
 - Minimum: Node.js 18.18.0
-- Recommended: Node.js 20.x or 22.x LTS
+- Recommended: Node.js 20.x or 22.x LTS or 24.x LTS
 - PostgreSQL database
 
 ## Setup
