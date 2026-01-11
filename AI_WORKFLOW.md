@@ -28,14 +28,6 @@ Create a dashboard page component that displays boards as cards with a create fo
 
 **Result:** Got a good component structure that I then customized for my needs.
 
-### Prompt 3: Filtering and Sorting Logic
-```
-How to filter and sort an array of tasks by status and created date in React?
-```
-
-**Why this prompt:** Needed efficient client-side filtering without additional API calls.
-
-**Result:** Implemented clean filtering with useState patterns.
 
 ## My Process
 
