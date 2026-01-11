@@ -33,7 +33,7 @@ Create a dashboard page component that displays boards as cards with a create fo
 
 ### What AI was used for:
 - Understanding Prisma 7.x breaking changes and adapter setup
-- Generating React component boilerplate for Dashboard and Board pages
+- Generating React component boilerplate
 - Helping with TypeScript types for Task and Board models
 - Debugging build errors
 - Help me create boiler plate for the README, AI_WORKFLOW, ARCHITECTURE
